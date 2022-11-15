@@ -1,0 +1,48 @@
+_repo: O-Cortico_69187
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Azevedo, Aluísio
+    aliases:
+    - Azevedo, Aluízio
+    - Azevedo, Aluizio
+    - Azevedo, Aluísio Tancredo Gonçalves de
+    - Azevedo, Aluisio Tancredo Goncalves de
+    - Tancredo Gonçalves de Azevedo, Aluísio
+    - Gonçalves de Azevedo, Aluísio Tancredo
+    - De Azevedo, Aluísio Tancredo Gonçalves
+    - Belo Gonçalves de Azevedo, Aluizio Tancredo
+    - Azevedo, A. (Aluizio)
+    birthdate: 1857
+    deathdate: 1913
+    gutenberg_agent_id: '55155'
+    url: http://www.gutenberg.org/2009/agents/55155
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alu%C3%ADsio_Azevedo
+    - https://pt.wikipedia.org/wiki/Alu%C3%ADsio_Azevedo
+description: ''
+gutenberg_issued: '2022-10-20'
+identifiers:
+  gutenberg: '69187'
+language: pt
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9906721
+pgterms:marc905: 20220817094553azevedo
+pgterms:marc906: '1897'
+pgterms:marc907: BR
+production_note: Laura Natal Rodrigues (Images generously made available by Gallica,
+  Bibliothèque nationale de France.)
+publication_note: 'Brazil: H. Garnier,1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Slums -- Fiction'
+- !lcsh 'Landlords -- Fiction'
+- !lcsh 'Brazil -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Immigrants -- Brazil -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: O Cortiço
+url: http://www.gutenberg.org/ebooks/69187
