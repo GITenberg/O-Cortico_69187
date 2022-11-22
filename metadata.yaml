@@ -1,5 +1,8 @@
 _repo: O-Cortico_69187
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69187-h/images/cortico_cover.jpg
 creator:
   author:
     agent_name: Azevedo, Aluísio
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alu%C3%ADsio_Azevedo
     - https://pt.wikipedia.org/wiki/Alu%C3%ADsio_Azevedo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69187#O-Cortico
 gutenberg_issued: '2022-10-20'
 identifiers:
   gutenberg: '69187'
